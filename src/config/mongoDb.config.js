@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const urlDb = "mongodb+srv://admin:admin123456@backend.3iiek3n.mongodb.net/ecommerce";
+const urlDb = "";
 
 export const connectMongoDB = async () => {
   try {
